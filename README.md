@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+Tech lover, Life long learner, Engineer at @Microsoft
