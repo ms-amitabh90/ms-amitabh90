@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Tech lover, Life long learner, Engineer at @Microsoft
 
-![This is an image](/imgs/cka-certified-kubernetes-administrator.png)
+### Technical certifications
 
 <img src="https://github.com/ms-amitabh90/ms-amitabh90/blob/main/imgs/cka-certified-kubernetes-administrator.png" width="100">
 
