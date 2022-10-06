@@ -21,7 +21,10 @@ Tech lover, Life long learner, Engineer at @Microsoft
 
 ### Technical certifications
 
-<img src="https://github.com/ms-amitabh90/ms-amitabh90/blob/main/imgs/cka-certified-kubernetes-administrator.png" width="100">
-
+<img src="https://github.com/ms-amitabh90/ms-amitabh90/blob/main/imgs/cka-certified-kubernetes-administrator.png" width="200">
+<img src="https://github.com/ms-amitabh90/ms-amitabh90/blob/main/imgs/ckad-certified-kubernetes-application-developer.png" width="200">
+<img src="https://github.com/ms-amitabh90/ms-amitabh90/blob/main/imgs/lfcs-linux-foundation-certified-systems-administrator.2.png" width="200">
+<img src="https://github.com/ms-amitabh90/ms-amitabh90/blob/main/imgs/microsoft-certified-devops-engineer-expert.png" width="200">
+<img src="https://github.com/ms-amitabh90/ms-amitabh90/blob/main/imgs/microsoft-certified-trainer-2021-2022.png" width="200">
 
 
