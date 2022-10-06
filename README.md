@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ### About Me
 
 Tech lover, Life long learner, Engineer at @Microsoft
+
+
+https://github.com/ms-amitabh90/ms-amitabh90/blob/main/cka-certified-kubernetes-administrator.png
