@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### About Me
 
-Tech lover, Life long learner, Engineer at @Microsoft
-Passionate for building and designing technical labs
-wants to contribute for tech community
+- Tech lover, Life long learner, Engineer at @Microsoft
+- Passionate for building and designing technical labs
+- wants to contribute for tech community
 
 - 🌱 I’m currently learning ...
    - Azure IoT
