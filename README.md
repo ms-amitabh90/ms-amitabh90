@@ -26,6 +26,9 @@ Here are some ideas to get you started:
    - Security for kubernetes
    - Github actions
    - OKR for product build
+- 🤔 I’m looking for help with ...
+   - code buddy to learn codeing togather
+   - Mentorship for Product manager/Software Engineer 
 
 ### Few technical certifications
 
